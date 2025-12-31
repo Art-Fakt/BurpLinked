@@ -7,8 +7,8 @@
 </p>
 
 ```
-LinkedIn Profile Extraction The Lazy Way
-            by @4rt3f4kt
+                     LinkedIn Profile Extraction The Lazy Way
+                                   by @4rt3f4kt
 ```
 
 LinkedIn recon the lazy way. 
